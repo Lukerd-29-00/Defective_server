@@ -3,3 +3,6 @@ This illustrates the most basic principle of a zero-knowledge proof; it is possi
 
 ## Challenge files/setup
 The challenge files are public_key.json and server.py. server.py needs to be run as a remote service, using the attached Dockerfile.
+
+## Challenge description
+I've just found out about this new authentication scheme, and I decided to try it out. I even found a way to optimize it!
